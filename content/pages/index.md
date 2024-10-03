@@ -121,7 +121,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 100%
-        subtitle: Faster
+        subtitle: Transparency
         text: >+
           We are the only company that integrates property share technology,
           regulated through the CIPC's MOI submission system. This allows you to
