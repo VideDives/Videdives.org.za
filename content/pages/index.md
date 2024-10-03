@@ -2,6 +2,49 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Transform your investments
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">Vide Dives transforms property investments
+      into accessible and profitable opportunities through fractional ownership
+      of property shares. We expertly manage properties and raise funds for
+      development, offering a transparent and inclusive investment model. Our
+      focus is on empowering investors with clear information about share
+      purchases and property development opportunities. 
+
+
+      </div>
+
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    media:
+      url: /images/e36989a1-0990-43d9-bc28-1ebacddcd10a.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,49 +162,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Transform your investments
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >+
-      <div style="text-align: center">Vide Dives transforms property investments
-      into accessible and profitable opportunities through fractional ownership
-      of property shares. We expertly manage properties and raise funds for
-      development, offering a transparent and inclusive investment model. Our
-      focus is on empowering investors with clear information about share
-      purchases and property development opportunities. 
-
-
-      </div>
-
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    media:
-      url: /images/e36989a1-0990-43d9-bc28-1ebacddcd10a.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
