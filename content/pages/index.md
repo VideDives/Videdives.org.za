@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Transform your investments
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
