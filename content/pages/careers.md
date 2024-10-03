@@ -63,7 +63,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Discover Our Strategic solutions
     items:
       - type: FeaturedItem
         title: >-
