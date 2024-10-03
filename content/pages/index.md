@@ -81,7 +81,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 15 %
         subtitle: Loyalty Bonus
         text: >+
           By strategically timing their exit, investors can capitalize on this
