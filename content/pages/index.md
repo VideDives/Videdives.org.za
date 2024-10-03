@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transform your investments
+      text: Start Grow your Property portfolio
       color: text-dark
       type: TitleBlock
     subtitle: ''
