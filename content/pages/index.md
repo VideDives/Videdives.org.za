@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Decision making rights
         text: >+
           we create an environment where informed insights and diverse
           perspectives can shape our initiatives and business strategies. 
