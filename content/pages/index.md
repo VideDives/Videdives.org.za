@@ -8,10 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      <div style="text-align: center">Vide Dives transforms property investments
+      into accessible and profitable opportunities through fractional ownership
+      of property shares. We expertly manage properties and raise funds for
+      development, offering a transparent and inclusive investment model. Our
+      focus is on empowering investors with clear information about share
+      purchases and property development opportunities. 
+
+
+      </div>
+
     actions:
       - label: Get started
         altText: ''
