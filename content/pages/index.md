@@ -39,7 +39,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Copy of Vide Dives-The Zamani Development .png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
