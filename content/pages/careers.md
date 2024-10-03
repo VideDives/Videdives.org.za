@@ -151,7 +151,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Open positions
+      text: ''
       color: text-dark
       styles:
         self:
