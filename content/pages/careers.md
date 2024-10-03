@@ -112,8 +112,10 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          We use sophisticated AI tools and market research platforms to offer
+          real-time insights on property trends and market conditions. This
+          helps investors seize the right opportunities while mitigating
+          potential risks.
         tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >+
