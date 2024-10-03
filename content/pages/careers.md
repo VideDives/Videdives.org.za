@@ -67,8 +67,14 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          We provide access to a diverse range of properties across different
+          regions and property types (residential, commercial, industrial). By
+          investing through Vide Dives, investors automatically spread their
+          risk across high-performing sectors and regions, protecting their
+          portfolios from localized downturns or sector-specific risks. Our
+          property acquisition team ensures investments are made in areas with
+          robust economic growth, access to amenities, and future potential for
+          capital appreciation.
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
