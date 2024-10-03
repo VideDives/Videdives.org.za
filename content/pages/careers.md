@@ -67,14 +67,9 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          We provide access to a diverse range of properties across different
-          regions and property types (residential, commercial, industrial). By
-          investing through Vide Dives, investors automatically spread their
-          risk across high-performing sectors and regions, protecting their
-          portfolios from localized downturns or sector-specific risks. Our
-          property acquisition team ensures investments are made in areas with
-          robust economic growth, access to amenities, and future potential for
-          capital appreciation.
+          Our team evaluates properties based on key metrics like market value,
+          rentability, and capital growth, ensuring your investment portfolio is
+          resilient and profitable.
         tagline: Testimonial 1
         subtitle: Why Vide Dives?
         text: >+
