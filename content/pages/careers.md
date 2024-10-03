@@ -10,8 +10,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      By following these steps, you can increase your chances of success in the
-      South African property market.
+      By following these strategies, you can increase your chances of success in
+      the South African property market.
     text: ''
     actions: []
     colors: bg-neutral-fg-dark
