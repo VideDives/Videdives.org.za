@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Vide Dives transforms property investments
+      <div style="text-align: left">Vide Dives transforms property investments
       into accessible and profitable opportunities through fractional ownership
       of property shares. We expertly manage properties and raise funds for
       development, offering a transparent and inclusive investment model. Our
       focus is on empowering investors with clear information about share
-      purchases and property development opportunities. 
+      purchases and property development opportunities.</div>
 
 
       </div>
