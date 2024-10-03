@@ -709,7 +709,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Front_Elevation_Sunny__1_-ai-brush-removebg-akj6fog (1).png
   type: Seo
   addTitleSuffix: true
 type: PageLayout
