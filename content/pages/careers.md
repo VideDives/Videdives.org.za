@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Common mistakes that can limit returns and increase risks include
       color: text-dark
       styles:
         self:
