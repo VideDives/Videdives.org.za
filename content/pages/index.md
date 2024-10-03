@@ -29,15 +29,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Front_Elevation_Sunny__1_-ai-brush-removebg-akj6fog (1).png
       altText: Unblock your team boost your time to production preview
