@@ -116,10 +116,13 @@ sections:
           Netlify.”
         tagline: ''
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our advanced market analysis tools and expert research teams provide
+          in-depth reports on property values, local economies, and potential
+          risks. We help investors avoid "gut-feel" decisions by delivering
+          solid data on emerging markets, regulatory changes, and economic
+          trends, ensuring well-informed investment choices.
+
         image:
           type: ImageBlock
           altText: Jane Doe
