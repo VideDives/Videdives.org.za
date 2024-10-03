@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Copy of Vide Dives-The Zamani Development .png
+      url: /images/Front_Elevation_Sunny__1_-ai-brush-removebg-akj6fog (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
