@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Front_Elevation_Sunny__1_-ai-brush-removebg-akj6fog (1).png
+      url: /images/e36989a1-0990-43d9-bc28-1ebacddcd10a.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
