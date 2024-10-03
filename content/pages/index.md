@@ -83,10 +83,11 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          By strategically timing their exit, investors can capitalize on this
+          lucrative opportunity, ensuring that their rewards reflect both their
+          initial commitment and the performance of the assets over time.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
