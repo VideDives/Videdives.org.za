@@ -27,7 +27,7 @@ sections:
         icon: chevronDown
         iconPosition: right
         style: secondary
-        elementId: movedirectlyunder
+        elementId: moved irectly under
         type: Button
     media:
       url: /images/e36989a1-0990-43d9-bc28-1ebacddcd10a.png
