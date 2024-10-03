@@ -13,13 +13,7 @@ sections:
       By following these steps, you can increase your chances of success in the
       South African property market.
     text: ''
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
