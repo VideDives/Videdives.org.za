@@ -77,16 +77,10 @@ sections:
           capital appreciation.
         tagline: Testimonial 1
         subtitle: Why Vide Dives?
-        text: >+
-          ****
-
-
+        text: >
           Our team evaluates properties based on key metrics like market value,
           rentability, and capital growth, ensuring your investment portfolio is
           resilient and profitable.
-
-
-
         image:
           type: ImageBlock
           altText: Maria Walters
