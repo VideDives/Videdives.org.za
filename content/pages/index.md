@@ -22,9 +22,6 @@ sections:
       Investors can buy and sell shares in individual properties, making it
       easier to adapt to market shifts.</div>
 
-
-      </div>
-
     actions:
       - label: Get started
         altText: ''
