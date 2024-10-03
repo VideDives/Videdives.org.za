@@ -82,7 +82,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Loyalty Bonus
         text: >+
           By strategically timing their exit, investors can capitalize on this
           lucrative opportunity, ensuring that their rewards reflect both their
