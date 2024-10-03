@@ -16,9 +16,6 @@ sections:
       focus is on empowering investors with clear information about share
       purchases and property development opportunities.</div>
 
-
-      </div>
-
     actions:
       - label: Get started
         altText: ''
