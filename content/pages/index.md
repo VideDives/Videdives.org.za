@@ -14,7 +14,23 @@ sections:
       of property shares. We expertly manage properties and raise funds for
       development, offering a transparent and inclusive investment model. Our
       focus is on empowering investors with clear information about share
-      purchases and property development opportunities.</div>
+      purchases and property development opportunities.Our innovative **Shares
+      Investment** allows investors to purchase shares in various properties,
+      providing greater flexibility and liquidity. By investing smaller amounts
+      across a range of properties, you avoid being over-leveraged in one asset,
+      ensuring you can adjust your portfolio as market conditions change.
+      Investors can buy and sell shares in individual properties, making it
+      easier to adapt to market shifts. 
+
+      We are the only company that integrates property share technology,
+      regulated through the CIPC's MOI submission system. This allows you to
+      diversify investments easily and provides a structured exit strategy,
+      reducing risk and maximizing flexibility.
+
+
+
+
+      </div>
 
     actions:
       - label: Get started
