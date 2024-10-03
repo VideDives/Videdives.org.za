@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Common mistakes that can limit returns and increase risks include
+      text: Common mistakes that can limit returns and increase risks
       color: text-dark
       styles:
         self:
