@@ -77,10 +77,14 @@ sections:
           capital appreciation.
         tagline: Testimonial 1
         subtitle: Why Vide Dives?
-        text: >
-          Our team evaluates properties based on key metrics like market value,
-          rentability, and capital growth, ensuring your investment portfolio is
-          resilient and profitable.
+        text: >+
+          By investing through Vide Dives, investors automatically spread their
+          risk across high-performing sectors and regions, protecting their
+          portfolios from localized downturns or sector-specific risks. Our
+          property acquisition team ensures investments are made in areas with
+          robust economic growth, access to amenities, and future potential for
+          capital appreciation.
+
         image:
           type: ImageBlock
           altText: Maria Walters
