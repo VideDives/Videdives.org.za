@@ -20,14 +20,7 @@ sections:
       across a range of properties, you avoid being over-leveraged in one asset,
       ensuring you can adjust your portfolio as market conditions change.
       Investors can buy and sell shares in individual properties, making it
-      easier to adapt to market shifts. 
-
-      We are the only company that integrates property share technology,
-      regulated through the CIPC's MOI submission system. This allows you to
-      diversify investments easily and provides a structured exit strategy,
-      reducing risk and maximizing flexibility.
-
-
+      easier to adapt to market shifts.</div>
 
 
       </div>
