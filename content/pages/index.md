@@ -184,38 +184,21 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: >+
-      Vide Dives has an investment committee that carefully selects properties
-      for investment. Once a property is chosen, a company is registered for it
-      with the CIPC, and as an investor, you can purchase shares in that
-      company.
+    text: >
+      Vide Dives offers a unique investment opportunity through carefully
+      selected properties. Once a property is chosen, a company is registered
+      with CIPC, allowing you to purchase shares.
 
 
-      To allow investors to buy shares, they need to be made available to the
-      public through an Initial Public Offering (IPO). 
+      These shares are available during a limited-time Initial Public Offering
+      (IPO). The investment is only successful if the full amount is raised. If
+      not, the deal is canceled, and if oversubscribed, excess funds are
+      refunded proportionally.
 
 
-
-
-      This means that a property is only open for investment during a specific
-      and limited period when the IPO is active. The entire investment amount
-      must be raised for the deal to proceed. If the required funds aren't met
-      from the Vide Dives community, the deal falls through. Alternatively, if
-      more funds are invested than needed, the IPO is oversubscribed, and the
-      excess money is returned to investors based on their original investment.
-
-
-
-
-      In a Vide Dives IPO, 1 share is typically valued at R50. For example, if
-      R5,000,000 is required for a property, 5,000,000 shares will be issued.
-
-
-      After an IPO closes and the property is transferred, investors can buy
-      additional shares or sell their shares back to us.
-
-
-
+      Each share typically costs R50. For a R5,000,000 property, 5,000,000
+      shares are issued. After the IPO, you can buy more shares or sell them
+      back to us.
     actions: []
     colors: bg-light-fg-dark
     styles:
