@@ -55,10 +55,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          we create an environment where informed insights and diverse
+          perspectives can shape our initiatives and business strategies. 
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
