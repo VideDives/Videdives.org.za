@@ -50,7 +50,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: o
+    subtitle: >-
+      South Africans have always had a strong interest in property investment,
+      recognizing its potential as a dependable path to wealth accumulation. The
+      South African property market offers vast opportunities for investors
+      looking to grow their portfolios. However, many fall into common traps
+      that can hinder their success. By conducting thorough research,
+      diversifying investments, and managing properties efficiently, investors
+      can maximize returns and minimize risks.
     items:
       - type: FeaturedItem
         title: 25%
