@@ -70,7 +70,7 @@ sections:
           Our team evaluates properties based on key metrics like market value,
           rentability, and capital growth, ensuring your investment portfolio is
           resilient and profitable.
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: Why Vide Dives?
         text: >+
           By investing through Vide Dives, investors automatically spread their
