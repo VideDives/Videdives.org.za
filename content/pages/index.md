@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Transform your investments
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >+
