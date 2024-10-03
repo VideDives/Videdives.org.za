@@ -117,7 +117,7 @@ sections:
           helps investors seize the right opportunities while mitigating
           potential risks.
         tagline: ''
-        subtitle: 'Jane Doe, Company'
+        subtitle: Comprehensive Market Research and Analysis
         text: >+
           Our advanced market analysis tools and expert research teams provide
           in-depth reports on property values, local economies, and potential
