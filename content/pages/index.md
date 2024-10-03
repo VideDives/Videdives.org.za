@@ -120,7 +120,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 100%
         subtitle: Faster
         text: >+
           We are the only company that integrates property share technology,
