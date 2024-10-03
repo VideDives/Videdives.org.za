@@ -76,7 +76,7 @@ sections:
           robust economic growth, access to amenities, and future potential for
           capital appreciation.
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Why Vide Dives?
         text: >+
           ****
 
