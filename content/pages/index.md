@@ -53,7 +53,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 25%
         subtitle: Decision making rights
         text: >+
           we create an environment where informed insights and diverse
