@@ -26,7 +26,7 @@ sections:
         showIcon: true
         icon: chevronDown
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     media:
