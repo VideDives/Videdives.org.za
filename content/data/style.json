@@ -56,7 +56,7 @@
     },
     "buttonPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "borderRadius": "lg",
         "shadow": "md",
