@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: ss
     items:
       - type: FeaturedItem
         title: 25%
