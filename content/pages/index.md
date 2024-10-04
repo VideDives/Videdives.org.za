@@ -299,7 +299,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Long-Term Growth Potential and Exit Strategy
-        subtitle: Engineering
+        subtitle: ''
         text: >
           Once the shares are purchased during the limited-time IPO, no further
           shares will be issued, maintaining the exclusivity of your investment.
