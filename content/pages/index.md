@@ -274,7 +274,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Secure and Transparent Investment Process
-        subtitle: Marketing
+        subtitle: ''
         text: >
           Our **all-or-nothing IPO model** is designed to offer both security
           and transparency. The project only proceeds if the full investment
