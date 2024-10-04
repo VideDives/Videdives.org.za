@@ -249,10 +249,16 @@ sections:
       - type: FeaturedItem
         title: Unique Property Investment Opportunity
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          At **Vide Dives**, we provide a distinct opportunity for investors to
+          participate in high-growth property developments through the purchase
+          of shares in a dedicated company. Each investment is backed by a
+          company registered with the **CIPC**, offering a secure and
+          professional structure. Our projects are carefully selected to ensure
+          strong potential returns, allowing you to invest in fractional
+          property ownership. With shares typically priced at **R50**, your
+          investment is directly tied to the development costs, ensuring a
+          focused and streamlined approach that maximizes value creation.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
