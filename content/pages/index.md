@@ -178,7 +178,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: HOW it works
+      text: Understanding the CIPC Process
       color: text-dark
       styles:
         self:
