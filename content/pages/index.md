@@ -187,7 +187,7 @@ sections:
     text: >
       Vide Dives offers a unique investment opportunity through carefully
       selected properties. Once a property is chosen, a company is registered
-      with CIPC, allowing you to purchase shares.
+      with CIPC, allowing you to purchase shares the company issues.
 
 
       These shares are available during a limited-time Initial Public Offering
