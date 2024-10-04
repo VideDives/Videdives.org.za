@@ -275,10 +275,15 @@ sections:
       - type: FeaturedItem
         title: Secure and Transparent Investment Process
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our **all-or-nothing IPO model** is designed to offer both security
+          and transparency. The project only proceeds if the full investment
+          amount required for development is raised, providing added peace of
+          mind for investors. Should the project be oversubscribed, excess funds
+          are refunded proportionally, ensuring fairness. This model ensures
+          that your capital is only committed to projects with sufficient
+          financial backing, giving you confidence in the viability of each
+          investment.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
