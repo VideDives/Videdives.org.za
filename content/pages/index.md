@@ -239,7 +239,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: How it works
       color: text-dark
       styles:
         self:
