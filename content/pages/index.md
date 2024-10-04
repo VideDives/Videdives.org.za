@@ -184,30 +184,20 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: >+
-      At **Vide Dives**, we offer a distinctive and secure property investment
-      opportunity designed to provide high returns and peace of mind for our
-      investors. By purchasing shares in a dedicated company registered with the
-      **CIPC**, you gain fractional ownership in prime, carefully selected
-      property developments. Our all-or-nothing **Initial Public Offering
-      (IPO)** ensures that your investment only moves forward if the full
-      funding required for development is raised, giving you greater financial
-      security and transparency. 
-
-
-      Each share is typically priced at **R50-R100**, and funds are raised
-      solely for property development—meaning your investment is focused on
-      creating tangible value from the outset. In the event of oversubscription,
-      excess funds are refunded proportionally. Post-IPO, no additional shares
-      will be issued, but you retain the option to sell your shares back to us
-      after a **5+ year** holding period. With the potential for **dividend
-      income** during the investment and **capital gains** when the property is
-      sold or disposed of, **Vide Dives** offers a professional, structured, and
-      profitable investment experience tailored for demographics of investors
-      looking to expand their portfolio with high-growth property developments.
-
-
-
+    text: >
+      The **Companies and Intellectual Property Commission (CIPC)** is a
+      regulatory body in South Africa responsible for registering companies,
+      intellectual property rights, and ensuring compliance with corporate and
+      intellectual property laws. The CIPC facilitates business formalization by
+      managing company registration, including proprietary limited companies and
+      non-profits. Their digital services allow businesses to register and
+      maintain entities online, submit annual financial statements, and protect
+      intellectual property like trademarks and patents. Compliance with CIPC’s
+      regulations enhances transparency, credibility, and provides legal
+      recognition for businesses, which is crucial for obtaining funding, tax
+      benefits, and personal asset protection​([Barter
+      McKellar](https://www.bartermckellar.law/corporate-law-explained/understanding-the-role-of-cipc-in-south-african-company-law))​([SA
+      Base](https://www.sabase.co.za/how-to-register-a-company-on-cipc/)).
     actions: []
     colors: bg-light-fg-dark
     styles:
