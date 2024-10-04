@@ -248,7 +248,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Unique Property Investment Opportunity
-        subtitle: Sales
+        subtitle: ''
         text: >
           At **Vide Dives**, we provide a distinct opportunity for investors to
           participate in high-growth property developments through the purchase
