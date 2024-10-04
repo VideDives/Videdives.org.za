@@ -316,8 +316,31 @@ sections:
         title: How Vide Dives Leverages the CIPC Process
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          At **Vide Dives**, we strategically utilize the CIPC’s streamlined
+          registration and compliance services to create legally sound,
+          transparent investment opportunities. By registering a new company for
+          each property we invest in, we ensure that every investor owns a legal
+          stake in a fully compliant entity. This process is vital for securing
+          the property’s ownership structure, issuing shares during the Initial
+          Public Offering (IPO), and maintaining transparency in financial
+          reporting.
+
+
+          Our deep understanding of the CIPC framework allows us to efficiently
+          handle all necessary filings, from company registration to the
+          issuance of share certificates, ensuring investors that their assets
+          are legally protected and structured. We take full advantage of the
+          CIPC’s digital services to offer seamless shareholder management and
+          ongoing compliance, making us uniquely equipped to deliver a high
+          level of operational excellence. Unlike other companies, we combine
+          this compliance expertise with our property development focus,
+          ensuring that our projects are not only financially viable but also
+          legally sound, providing unparalleled security for our investors​(
+
+
+          [Barter
+          McKellar](https://www.bartermckellar.law/corporate-law-explained/understanding-the-role-of-cipc-in-south-african-company-law))​([DataTracks](https://www.datatracks.com/za/blog/all-about-the-cipc-and-its-functions/)).
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
