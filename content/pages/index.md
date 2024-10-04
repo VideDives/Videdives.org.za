@@ -300,10 +300,17 @@ sections:
       - type: FeaturedItem
         title: Long-Term Growth Potential and Exit Strategy
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Once the shares are purchased during the limited-time IPO, no further
+          shares will be issued, maintaining the exclusivity of your investment.
+          After a holding period of **5+ years**, you have the flexibility to
+          sell your shares back to us, providing a clear exit strategy. During
+          the investment period, you may benefit from **dividend income**, and
+          when the property is sold or disposed of, you could realize **capital
+          gains**. This combination of regular returns and long-term growth
+          potential makes **Vide Dives** a powerful and professional investment
+          partner for those seeking to expand their portfolio with high-quality
+          property developments.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
