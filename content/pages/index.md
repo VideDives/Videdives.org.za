@@ -273,7 +273,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Secure and Transparent Investment Process
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
