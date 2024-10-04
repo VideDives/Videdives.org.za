@@ -183,7 +183,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       The **Companies and Intellectual Property Commission (CIPC)** is a
       regulatory body in South Africa responsible for registering companies,
