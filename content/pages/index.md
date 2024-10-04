@@ -184,22 +184,30 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: >
-      Vide Dives offers a unique investment opportunity through carefully
-      selected properties. Once a property is chosen, a company is registered
-      with CIPC, allowing you to purchase shares the company issues.
+    text: >+
+      At **Vide Dives**, we offer a distinctive and secure property investment
+      opportunity designed to provide high returns and peace of mind for our
+      investors. By purchasing shares in a dedicated company registered with the
+      **CIPC**, you gain fractional ownership in prime, carefully selected
+      property developments. Our all-or-nothing **Initial Public Offering
+      (IPO)** ensures that your investment only moves forward if the full
+      funding required for development is raised, giving you greater financial
+      security and transparency. 
 
 
-      These shares are available during a limited-time Initial Public Offering
-      (IPO). The investment is only successful if the full amount is raised. If
-      not, the deal is canceled, and if oversubscribed, excess funds are
-      refunded proportionally.
+      Each share is typically priced at **R50-R100**, and funds are raised
+      solely for property development—meaning your investment is focused on
+      creating tangible value from the outset. In the event of oversubscription,
+      excess funds are refunded proportionally. Post-IPO, no additional shares
+      will be issued, but you retain the option to sell your shares back to us
+      after a **5+ year** holding period. With the potential for **dividend
+      income** during the investment and **capital gains** when the property is
+      sold or disposed of, **Vide Dives** offers a professional, structured, and
+      profitable investment experience tailored for demographics of investors
+      looking to expand their portfolio with high-growth property developments.
 
 
-      Each share typically costs R50. For a R5,000,000 property, 5,000,000
-      shares are issued. After the IPO and all shares have been purchased, you
-      can not buy more shares but you may sell them back to us, post the
-      investment period( 5+YRS) 
+
     actions: []
     colors: bg-light-fg-dark
     styles:
