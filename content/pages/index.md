@@ -197,8 +197,9 @@ sections:
 
 
       Each share typically costs R50. For a R5,000,000 property, 5,000,000
-      shares are issued. After the IPO, you can buy more shares or sell them
-      back to us.
+      shares are issued. After the IPO and all shares have been purchased, you
+      can not buy more shares but you may sell them back to us, post the
+      investment period( 5+YRS) 
     actions: []
     colors: bg-light-fg-dark
     styles:
