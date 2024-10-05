@@ -385,7 +385,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: The Zamani Commercial Block
       color: text-dark
       styles:
         self:
