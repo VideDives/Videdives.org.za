@@ -417,10 +417,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             textAlign: justify
             borderColor: border-neutralAlt
             borderWidth: 2
