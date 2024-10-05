@@ -395,16 +395,17 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          <div style="text-align: center">##### The Zamani Commercial
+          <div style="text-align: center"># <sub>The Zamani Commercial
           Development is the only commercial node on KwaZulu-Natal's South Coast
           and enjoys unrivaled views over the Indian Ocean. It provides
           underprivileged entrepreneurs with a secure community where businesses
-          can thrive and prosper.##### Strategically located near the busy
-          Umgababa station, various taxi ranks, and Umgababa Beach, it offers a
-          high foot-traffic position. With stable rentals and consistent capital
-          growth in South Africa's dynamic commercial property market, the
-          Zamani is the perfect opportunity for investors looking to tap into
-          the growing e-commerce and co-working sectors.</div>
+          can thrive and prosper. </sub># <sub>Strategically located near the
+          busy Umgababa station, various taxi ranks, and Umgababa Beach, it
+          offers a high foot-traffic position. With stable rentals and
+          consistent capital growth in South Africa's dynamic commercial
+          property market, the Zamani is the perfect opportunity for investors
+          looking to tap into the growing e-commerce and co-working
+          sectors.</sub></div>
 
         image:
           type: ImageBlock
