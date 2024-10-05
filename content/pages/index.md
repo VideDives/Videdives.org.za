@@ -409,7 +409,7 @@ sections:
           and co-working sectors.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Front Elevation Sunny (3).png
           altText: Faux Fur Throw
           elementId: ''
           styles:
