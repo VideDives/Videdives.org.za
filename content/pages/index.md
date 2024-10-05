@@ -393,7 +393,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: >
           The Zamani Commercial Development is the only commercial node on
           KwaZulu-Natal's South Coast and enjoys unrivaled views over the Indian
