@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Southern Elevation Rainy (2).png
+  url: /images/Front Elevation Sunny (3).png
   altText: Case study 1
   styles:
     self:
