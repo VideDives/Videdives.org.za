@@ -423,7 +423,7 @@ sections:
               - pr-3
             textAlign: justify
             borderColor: border-neutralAlt
-            borderWidth: 2
+            borderWidth: 4
             borderRadius: x-small
             flexDirection: row-reverse
             justifyContent: center
