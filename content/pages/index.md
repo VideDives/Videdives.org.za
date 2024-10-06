@@ -398,10 +398,6 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/Copy of Vide Dives-The Zamani Development .png
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/Unit type 1 Front (2).png
         altText: Contentful logo
         elementId: ''
