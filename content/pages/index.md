@@ -139,7 +139,7 @@ sections:
     actions:
       - label: Learn More
         altText: ''
-        url: '/Learn More '
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
