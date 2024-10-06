@@ -263,7 +263,7 @@ sections:
       </div></div>
 
     badge:
-      label: Key Benefits
+      label: Property Key Benefits
       color: text-primary
       styles:
         self:
