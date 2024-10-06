@@ -480,7 +480,7 @@ sections:
           hideLabel: true
           placeholder: 'Amount of Shares '
           isRequired: false
-          width: full
+          width: 1/2
         - type: TextareaFormControl
           name: message
           label: Message
