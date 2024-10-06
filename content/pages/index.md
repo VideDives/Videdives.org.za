@@ -468,13 +468,6 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: ''
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: EmailFormControl
           name: 'Mobile '
           label: 'Mobile '
           hideLabel: true
