@@ -493,7 +493,7 @@ sections:
           width: 1/2
         - type: EmailFormControl
           name: Investment period
-          label: Email
+          label: Investment period
           hideLabel: true
           placeholder: Your email
           isRequired: true
