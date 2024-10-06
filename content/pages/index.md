@@ -4,24 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
       text: Start Growing your Property portfolio
       color: text-dark
       type: TitleBlock
