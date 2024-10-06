@@ -447,7 +447,7 @@ sections:
       type: TitleBlock
       text: Reach Out
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
