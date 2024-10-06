@@ -475,18 +475,18 @@ sections:
           isRequired: true
           width: 1/2
         - type: EmailFormControl
-          name: SHARES
-          label: SHARES
-          hideLabel: true
-          placeholder: 'Amount of Shares '
-          isRequired: false
-          width: 1/2
-        - type: EmailFormControl
           name: 'Mobile '
           label: 'Mobile '
           hideLabel: true
           placeholder: 'Contact Number '
           isRequired: true
+          width: 1/2
+        - type: EmailFormControl
+          name: SHARES
+          label: SHARES
+          hideLabel: true
+          placeholder: 'Amount of Shares '
+          isRequired: false
           width: 1/2
         - type: TextareaFormControl
           name: message
