@@ -448,10 +448,10 @@ sections:
       text: Reach Out
       color: text-dark
     subtitle: >-
-      If you wish for the purchase of your shares to be immediate. Please let us
-      know the AMOUNT OF SHARES you wish to purchase and fill in the I.D NUMBER
-      field. So we may issue you an immediate invoice and Shareholder
-      certificate , once you have paid for your shares.
+      "If you would like to expedite the purchase of your shares, kindly provide
+      the number of shares you wish to acquire and ensure the ID number field is
+      completed. Upon receipt of this information, we will promptly issue an
+      invoice and your shareholder certificate once payment has been confirmed."
     text: ''
     actions: []
     media:
