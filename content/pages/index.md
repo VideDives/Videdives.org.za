@@ -178,57 +178,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Understanding the CIPC Process
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: >
-      The **Companies and Intellectual Property Commission (CIPC)** is a
-      regulatory body in South Africa responsible for registering companies,
-      intellectual property rights, and ensuring compliance with corporate and
-      intellectual property laws. The CIPC facilitates business formalization by
-      managing company registration, including proprietary limited companies and
-      non-profits. Their digital services allow businesses to register and
-      maintain entities online, submit annual financial statements, and protect
-      intellectual property like trademarks and patents. Compliance with CIPC’s
-      regulations enhances transparency, credibility, and provides legal
-      recognition for businesses, which is crucial for obtaining funding, tax
-      benefits, and personal asset protection​([Barter
-      McKellar](https://www.bartermckellar.law/corporate-law-explained/understanding-the-role-of-cipc-in-south-african-company-law))​([SA
-      Base](https://www.sabase.co.za/how-to-register-a-company-on-cipc/)).
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '4:3'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Understanding The CIPC Process
       color: text-dark
     subtitle: ''
