@@ -429,7 +429,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: <p><s>LANDLORD</s> SHAREHOLDER</p>
+      text: 'The Zamani Commercial Block '
       color: text-dark
   - title:
       text: ''
