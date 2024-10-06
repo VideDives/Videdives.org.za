@@ -402,7 +402,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/Unit type 1 Front (2).png
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
