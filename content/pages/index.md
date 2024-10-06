@@ -398,7 +398,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/Copy of Vide Dives-The Zamani Development .png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
