@@ -22,16 +22,7 @@ sections:
       Investors can buy and sell shares in individual properties, making it
       easier to adapt to market shifts.</div>
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: true
-        icon: chevronDown
-        iconPosition: right
-        style: secondary
-        elementId: moved irectly under
-        type: Button
+    actions: []
     media:
       url: /images/e36989a1-0990-43d9-bc28-1ebacddcd10a.png
       altText: Unblock your team boost your time to production preview
