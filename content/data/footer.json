@@ -9,15 +9,6 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "ABOUT US",
                 "url": "/pricing",
                 "icon": "arrowRight",
