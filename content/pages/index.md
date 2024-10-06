@@ -439,7 +439,7 @@ sections:
       (IRR)                       21.20%Dividend
       Yield                                             24.64%AVG Dividends per
       Share                             R12.34Net Rental
-      Yield                                           82.61%
+      Yield                                           82.61%</div>
 
 
       </div>
