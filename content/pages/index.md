@@ -434,16 +434,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |+
-      Internal Rate of Return (IRR)                       21.20%
-
-      Dividend Yield                                             24.64%
-
-      AVG Dividends per Share                             R12.34
-
-      Net Rental Yield                                           82.61%
-
-
+    text: >+
+      <div style="text-align: center">Internal Rate of Return
+      (IRR)                       21.20%Dividend
+      Yield                                             24.64%AVG Dividends per
+      Share                             R12.34Net Rental
+      Yield                                           82.61%</div>
 
     media:
       title: Title of the video
