@@ -404,6 +404,7 @@ sections:
       - type: ImageBlock
         altText: Sanity logo
         elementId: ''
+        url: /images/Southern Elevation Rainy (2).png
       - type: ImageBlock
         altText: Rangle logo
         elementId: ''
