@@ -435,11 +435,12 @@ sections:
       type: TitleBlock
     subtitle: This is a subtitle
     text: >+
-      <div style="text-align: left">Internal Rate of Return
-      (IRR)                       21.20%Dividend
-      Yield                                             24.64%AVG Dividends per
-      Share                             R12.34Net Rental
-      Yield                                           82.61%</div>
+      <div style="text-align: left"><div style="text-align: justify;
+      line-height: 2;"><p><strong>Internal Rate of Return (IRR)</strong> <span
+      style="float: right;">21.20%</span></p><p><strong>Dividend Yield</strong>
+      <span style="float: right;">24.64%</span></p><p><strong>AVG Dividends per
+      Share</strong> <span style="float: right;">R12.34</span></p><p><strong>Net
+      Rental Yield</strong> <span style="float: right;">82.61%</span></p></div>
 
 
       </div>
