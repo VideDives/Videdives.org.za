@@ -30,7 +30,7 @@ sections:
             - pl-2
             - pr-2
           borderColor: border-dark
-          borderStyle: solid
+          borderStyle: none
           borderWidth: 0
           borderRadius: large
     colors: bg-light-fg-dark
