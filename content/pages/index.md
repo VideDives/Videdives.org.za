@@ -447,7 +447,10 @@ sections:
       type: TitleBlock
       text: Reach Out
       color: text-dark
-    subtitle: 'N'
+    subtitle: >-
+      If you wish for the purchase of your shares to be immediate. Please let us
+      know the AMOUNT OF SHARES you wish to purchase and fill in the I.D NUMBER
+      field. 
     text: ''
     actions: []
     media:
