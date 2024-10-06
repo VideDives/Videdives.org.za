@@ -283,47 +283,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |+
-      <div style="text-align: left">```
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <style>
-          .info-container {
-              width: 300px; /\* Adjust width as needed \*/
-              margin: 0 auto;
-          }
-          .info-row {
-              display: flex;
-              justify-content: space-between;
-              padding: 10px 0;
-              border-bottom: 1px solid #ddd;
-          }
-          .info-row:last-child {
-              border-bottom: none;
-          }
-      </style>
-      <title>Financial Info</title>
-      ```<div class="info-container">
-          <div class="info-row">
-              <span>Cost</span>
-              <span>R50</span>
-          </div>
-          <div class="info-row">
-              <span>Internal Rate of Return (IRR)</span>
-              <span>21.20%</span>
-          </div>
-          <div class="info-row">
-              <span>Dividend Yield</span>
-              <span>24.64%</span>
-          </div>
-          <div class="info-row">
-              <span>AVG Dividends per Share</span>
-              <span>R12.34</span>
-          </div>
-          <div class="info-row">
-              <span>Net Rental Yield</span>
-              <span>82.61%</span>
-          </div> </div>
+    text: >+
+      <div style="text-align: left"><div style="text-align: justify;
+      line-height: 2;">
+        <p><strong>Internal Rate of Return (IRR)</strong> <span style="float: right;">21.20%</span></p>
+        <p><strong>Dividend Yield</strong> <span style="float: right;">24.64%</span></p>
+        <p><strong>AVG Dividends per Share</strong> <span style="float: right;">R12.34</span></p>
+        <p><strong>Net Rental Yield</strong> <span style="float: right;">82.61%</span></p>
+        <p>We provide an alternative to the traditional <s>landlord</s> model by offering a modern, community-driven approach.</p>
+      </div></div>
 
     badge:
       label: Key Benefits
