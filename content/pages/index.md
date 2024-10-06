@@ -471,7 +471,7 @@ sections:
           name: 'Mobile '
           label: 'Mobile '
           hideLabel: true
-          placeholder: Your email
+          placeholder: 'Contact Number '
           isRequired: true
           width: full
         - type: TextareaFormControl
