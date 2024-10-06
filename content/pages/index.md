@@ -226,6 +226,55 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+  - type: ImageGallerySection
+    subtitle: THE ZAMANI DEVELOPMENT
+    images:
+      - type: ImageBlock
+        url: /images/Front Elevation Sunny (3).png
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/River Sunny.png
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Unit Type 1 Back.png
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Unit type 1 Front (2).png
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Sanity logo
+        elementId: ''
+        url: /images/Southern Elevation Rainy (2).png
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -372,55 +421,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: THE ZAMANI DEVELOPMENT
-    images:
-      - type: ImageBlock
-        url: /images/Front Elevation Sunny (3).png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/River Sunny.png
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Unit Type 1 Back.png
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Unit type 1 Front (2).png
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
-        url: /images/Southern Elevation Rainy (2).png
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
