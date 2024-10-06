@@ -430,7 +430,7 @@ sections:
     title:
       type: TitleBlock
       text: 'The Zamani Commercial Block '
-      color: text-dark
+      color: text-light
   - title:
       text: ''
       color: text-dark
