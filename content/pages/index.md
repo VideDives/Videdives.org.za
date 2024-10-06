@@ -293,7 +293,7 @@ sections:
       </div></div>
 
     badge:
-      label: R50each
+      label: R50
       color: text-primary
       styles:
         self:
