@@ -275,6 +275,40 @@ sections:
       type: TitleBlock
       text: ''
       color: text-primary
+  - title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >+
+      <div style="text-align: left"><div style="text-align: justify;
+      line-height: 2;"><p><strong>Internal Rate of Return (IRR)</strong> <span
+      style="float: right;">21.20%</span></p><p><strong>Dividend Yield</strong>
+      <span style="float: right;">24.64%</span></p><p><strong>AVG Dividends per
+      Share</strong> <span style="float: right;">R12.34</span></p><p><strong>Net
+      Rental Yield</strong> <span style="float: right;">82.61%</span></p></div>
+
+
+      </div>
+
+    badge:
+      label: Key Benefits
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -421,40 +455,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >+
-      <div style="text-align: left"><div style="text-align: justify;
-      line-height: 2;"><p><strong>Internal Rate of Return (IRR)</strong> <span
-      style="float: right;">21.20%</span></p><p><strong>Dividend Yield</strong>
-      <span style="float: right;">24.64%</span></p><p><strong>AVG Dividends per
-      Share</strong> <span style="float: right;">R12.34</span></p><p><strong>Net
-      Rental Yield</strong> <span style="float: right;">82.61%</span></p></div>
-
-
-      </div>
-
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
