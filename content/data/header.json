@@ -31,17 +31,7 @@
             "type": "Link"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Submit Your Property ",
-            "altText": "Submit Your Property ",
-            "url": "/Property",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
