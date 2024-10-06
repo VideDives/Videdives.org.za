@@ -33,7 +33,7 @@
     "secondaryLinks": [
         {
             "label": "Submit Your Property ",
-            "altText": "Sign up",
+            "altText": "Submit Your Property ",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
