@@ -497,7 +497,7 @@ sections:
           hideLabel: true
           placeholder: Investment Period 1-5 Years
           isRequired: true
-          width: full
+          width: 1/2
         - type: TextareaFormControl
           name: message
           label: Message
