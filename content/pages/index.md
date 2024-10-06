@@ -383,7 +383,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: THE ZAMANI DEVELOPMENT
     images:
       - type: ImageBlock
         url: /images/Front Elevation Sunny (3).png
