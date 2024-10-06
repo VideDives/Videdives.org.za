@@ -469,7 +469,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: 'Mobile '
-          label: Email
+          label: 'Mobile '
           hideLabel: true
           placeholder: Your email
           isRequired: true
