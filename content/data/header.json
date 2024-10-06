@@ -35,7 +35,7 @@
         {
             "label": "Submit Your Property ",
             "altText": "Submit Your Property ",
-            "url": "/newpage",
+            "url": "/new page",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
