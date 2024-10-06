@@ -469,7 +469,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: 'Identification '
-          label: Email
+          label: Identification
           hideLabel: true
           placeholder: Your email
           isRequired: true
