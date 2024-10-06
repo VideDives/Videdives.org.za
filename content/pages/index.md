@@ -495,7 +495,7 @@ sections:
           name: Investment period
           label: Investment period
           hideLabel: true
-          placeholder: 'Investment Period '
+          placeholder: Investment Period 1-5 Years
           isRequired: true
           width: full
         - type: TextareaFormControl
