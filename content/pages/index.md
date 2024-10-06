@@ -232,9 +232,21 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      The **Companies and Intellectual Property Commission (CIPC)** is a
+      regulatory body in South Africa responsible for registering companies,
+      intellectual property rights, and ensuring compliance with corporate and
+      intellectual property laws. The CIPC facilitates business formalization by
+      managing company registration, including proprietary limited companies and
+      non-profits. Their digital services allow businesses to register and
+      maintain entities online, submit annual financial statements, and protect
+      intellectual property like trademarks and patents. Compliance with CIPC’s
+      regulations enhances transparency, credibility, and provides legal
+      recognition for businesses, which is crucial for obtaining funding, tax
+      benefits, and personal asset protection​([Barter
+      McKellar](https://www.bartermckellar.law/corporate-law-explained/understanding-the-role-of-cipc-in-south-african-company-law))​([SA
+      Base](https://www.sabase.co.za/how-to-register-a-company-on-cipc/)).
+
     actions: []
     media:
       type: ImageBlock
