@@ -426,6 +426,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
   - title:
       text: ''
       color: text-dark
