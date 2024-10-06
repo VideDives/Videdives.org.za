@@ -284,28 +284,26 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |+
-      <div style="text-align: left"><!DOCTYPE html><html lang="en">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <style>
-              .info-container {
-                  width: 300px; /\* Adjust width as needed \*/
-                  margin: 0 auto;
-              }
-              .info-row {
-                  display: flex;
-                  justify-content: space-between;
-                  padding: 10px 0;
-                  border-bottom: 1px solid #ddd;
-              }
-              .info-row:last-child {
-                  border-bottom: none;
-              }
-          </style>
-          <title>Financial Info</title>
-      </head>
-      <body><div class="info-container">
+      <div style="text-align: left">```
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+          .info-container {
+              width: 300px; /\* Adjust width as needed \*/
+              margin: 0 auto;
+          }
+          .info-row {
+              display: flex;
+              justify-content: space-between;
+              padding: 10px 0;
+              border-bottom: 1px solid #ddd;
+          }
+          .info-row:last-child {
+              border-bottom: none;
+          }
+      </style>
+      <title>Financial Info</title>
+      ```<div class="info-container">
           <div class="info-row">
               <span>Cost</span>
               <span>R50</span>
@@ -325,9 +323,7 @@ sections:
           <div class="info-row">
               <span>Net Rental Yield</span>
               <span>82.61%</span>
-          </div>
-      </div></body>
-      </html></div>
+          </div> </div>
 
     badge:
       label: Key Benefits
