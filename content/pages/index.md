@@ -474,12 +474,6 @@ sections:
           placeholder: 'Contact Number '
           isRequired: true
           width: 1/2
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
         - type: EmailFormControl
           name: SHARES
           label: SHARES
@@ -487,6 +481,12 @@ sections:
           placeholder: 'Amount of Shares '
           isRequired: false
           width: 1/2
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
