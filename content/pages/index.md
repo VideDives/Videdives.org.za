@@ -394,7 +394,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/Unit Type 1 Back.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
