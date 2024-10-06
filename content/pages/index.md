@@ -435,7 +435,7 @@ sections:
       type: TitleBlock
     subtitle: This is a subtitle
     text: >+
-      <div style="text-align: center">Internal Rate of Return
+      <div style="text-align: left">Internal Rate of Return
       (IRR)                       21.20%Dividend
       Yield                                             24.64%AVG Dividends per
       Share                             R12.34Net Rental
