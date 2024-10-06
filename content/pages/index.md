@@ -276,6 +276,8 @@ sections:
         justifyContent: center
         padding:
           - pt-4
+        margin:
+          - mt-1
       subtitle:
         textAlign: center
     type: GenericSection
