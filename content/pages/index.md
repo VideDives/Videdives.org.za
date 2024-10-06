@@ -478,7 +478,7 @@ sections:
           name: SHARES
           label: SHARES
           hideLabel: true
-          placeholder: Your email
+          placeholder: 'Amount of Shares '
           isRequired: true
           width: full
         - type: TextareaFormControl
