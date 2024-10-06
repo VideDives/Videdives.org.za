@@ -474,6 +474,13 @@ sections:
           placeholder: 'Contact Number '
           isRequired: true
           width: 1/2
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
