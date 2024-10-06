@@ -427,7 +427,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: LANDLORD SHAREHOLDER
+      text: <p><s>LANDLORD</s> SHAREHOLDER</p>
       color: text-dark
       styles:
         self:
