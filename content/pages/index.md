@@ -468,7 +468,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: 'Mobile '
           label: Email
           hideLabel: true
           placeholder: Your email
