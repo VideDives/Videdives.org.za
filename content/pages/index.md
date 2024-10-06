@@ -433,7 +433,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
       <div style="text-align: left"><div style="text-align: justify;
       line-height: 2;"><p><strong>Internal Rate of Return (IRR)</strong> <span
