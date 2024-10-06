@@ -429,7 +429,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: 'The Zamani Commercial Block '
+      text: ''
       color: text-primary
   - title:
       text: ''
