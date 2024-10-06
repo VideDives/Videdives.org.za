@@ -386,7 +386,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Front Elevation Sunny (3).png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
