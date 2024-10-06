@@ -434,11 +434,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      Internal Rate of Return (IRR)                       21.20%
+
+      Dividend Yield                                             24.64%
+
+      AVG Dividends per Share                             R12.34
+
+      Net Rental Yield                                           82.61%
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
