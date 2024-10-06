@@ -495,7 +495,7 @@ sections:
           name: Investment period
           label: Investment period
           hideLabel: true
-          placeholder: Your email
+          placeholder: 'Investment Period '
           isRequired: true
           width: full
         - type: TextareaFormControl
