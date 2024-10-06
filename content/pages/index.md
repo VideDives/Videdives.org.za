@@ -13,26 +13,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '4:3'
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-light
-          borderStyle: none
-          borderWidth: 0
-          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
