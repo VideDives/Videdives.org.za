@@ -464,7 +464,7 @@ sections:
           name: 'Surname '
           label: Surname
           hideLabel: true
-          placeholder: Your email
+          placeholder: Surname
           isRequired: true
           width: full
         - type: EmailFormControl
