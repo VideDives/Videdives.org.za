@@ -470,7 +470,7 @@ sections:
         - type: EmailFormControl
           name: 'Mobile '
           label: 'Mobile '
-          hideLabel: false
+          hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
