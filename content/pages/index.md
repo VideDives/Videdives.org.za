@@ -427,6 +427,10 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: ''
       color: text-dark
