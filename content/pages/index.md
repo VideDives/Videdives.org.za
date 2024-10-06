@@ -293,7 +293,7 @@ sections:
       </div></div>
 
     badge:
-      label: R50
+      label: Key Benefits
       color: text-primary
       styles:
         self:
