@@ -450,7 +450,8 @@ sections:
     subtitle: >-
       If you wish for the purchase of your shares to be immediate. Please let us
       know the AMOUNT OF SHARES you wish to purchase and fill in the I.D NUMBER
-      field. 
+      field. So we may issue you an immediate invoice and Shareholder
+      certificate , once you have paid for your shares.
     text: ''
     actions: []
     media:
