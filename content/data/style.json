@@ -10,8 +10,8 @@
         "size": "6xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "none",
-        "letterSpacing": "normal",
+        "case": "uppercase",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h2": {
@@ -56,10 +56,10 @@
     },
     "buttonPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "borderRadius": "lg",
+        "shadow": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
