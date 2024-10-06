@@ -290,7 +290,6 @@ sections:
         <p><strong>Dividend Yield</strong> <span style="float: right;">24.64%</span></p>
         <p><strong>AVG Dividends per Share</strong> <span style="float: right;">R12.34</span></p>
         <p><strong>Net Rental Yield</strong> <span style="float: right;">82.61%</span></p>
-        <p>We provide an alternative to the traditional <s>landlord</s> model by offering a modern, community-driven approach.</p>
       </div></div>
 
     badge:
