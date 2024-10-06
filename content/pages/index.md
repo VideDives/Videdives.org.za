@@ -429,7 +429,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: <p><s>LANDLORD</s> SHAREHOLDER</p>
       color: text-dark
   - title:
       text: ''
