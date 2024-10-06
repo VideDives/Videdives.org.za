@@ -473,7 +473,7 @@ sections:
           hideLabel: true
           placeholder: I.D Number
           isRequired: true
-          width: full
+          width: 1/2
         - type: EmailFormControl
           name: 'Mobile '
           label: 'Mobile '
