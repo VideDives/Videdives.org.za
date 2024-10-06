@@ -475,7 +475,7 @@ sections:
           isRequired: true
           width: 1/2
         - type: EmailFormControl
-          name: email
+          name: SHARES
           label: Email
           hideLabel: true
           placeholder: Your email
